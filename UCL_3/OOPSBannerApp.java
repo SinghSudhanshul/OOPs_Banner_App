@@ -7,5 +7,4 @@ public class OOPSBannerApp {
         System.out.println(String.join("", "** **", " ", "** **", " ", "** ", " ", "    **"));
         System.out.println(String.join("", "** **", " ", "** **", " ", "** ", " ", "    **"));
         System.out.println(String.join("", " ****", " ", " ****", " ", "** ", " ", " **** "));
-    }
-}
+    }}
